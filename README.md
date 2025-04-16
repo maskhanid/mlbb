@@ -1,20 +1,18 @@
 # Mobile Legends Account ID Checker
 
-[![Stars](https://img.shields.io/github/stars/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/stargazers)
-[![Forks](https://img.shields.io/github/forks/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/network/members)
-[![Issues](https://img.shields.io/github/issues/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/issues)
-[![License](https://img.shields.io/github/license/caliph91/check-id-mlbb?style=flat-square)](https://github.com/caliph91/check-id-mlbb/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/maskhanid/mlbb?style=flat-square)](https://github.com/maskhanid/mlbb/stargazers)
+[![Forks](https://img.shields.io/github/forks/maskhanid/mlbb?style=flat-square)](https://github.com/maskhanid/mlbb/network/members)
+[![Issues](https://img.shields.io/github/issues/maskhanid/mlbb?style=flat-square)](https://github.com/maskhanid/mlbb/issues)
+[![License](https://img.shields.io/github/license/maskhanid/mlbb?style=flat-square)](https://github.com/maskhanid/mlbb/blob/main/LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-green?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=flat-square)](https://cekidml.caliph.dev)
 
 A lightweight web tool to check **Mobile Legends** account **username** and **region** using **User ID** and **Server ID**.  
 Useful for players, account sellers, or anyone who wants to verify account information quickly.
 
-## Live Demo
+## Demo
 
-[![Demo Screenshot](https://caliph.dev/_next/image?url=/project/OuvMiApgEfCaUgJCrBEAAw.png&w=1920&q=75)](https://cekidml.caliph.dev)
-
-**Try it here:** [https://cekidml.caliph.dev](https://cekidml.caliph.dev)
+**Try it here:** [https://maskhandev.me](https://maskhandev.me)
 
 ## Features
 
@@ -35,7 +33,7 @@ Useful for players, account sellers, or anyone who wants to verify account infor
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/caliph91/check-id-mlbb
+git clone https://github.com/maskhanid/mlbb
 ```
 
 ### 2. Navigate to the Project Directory
@@ -60,4 +58,4 @@ http://localhost:3000
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/caliph91/check-id-mlbb/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/maskhanid/mlbb/blob/main/LICENSE).
